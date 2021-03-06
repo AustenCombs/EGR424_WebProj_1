@@ -1,0 +1,42 @@
+div {
+    margin-bottom: 1em;
+}
+label {
+    display: inline-block;
+    width: 5em;
+}
+input {
+    margin-right: 0.5em;
+    align-items: center;
+}
+.error {
+    color:red;
+}
+.right {
+    float: right;
+}
+#main {
+    background-image: url("space.jpg");
+}
+.title {
+    text-align: center;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+.info {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    opacity: .50;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+.pos {
+    margin-left: 500px;
+}
+.atr {
+    color: blanchedalmond;
+    margin-left: 500px;
+}
+
+
